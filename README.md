@@ -1,36 +1,36 @@
-> ÌáĞÑ£º ÀÄÓÃ¿ÉÄÜµ¼ÖÂÕË»§±»BAN£¡£¡£¡   
+> æé†’ï¼š æ»¥ç”¨å¯èƒ½å¯¼è‡´è´¦æˆ·è¢«BANï¼ï¼ï¼   
   
-* Ê¹ÓÃv2ray+caddyÍ¬Ê±²¿ÊğÍ¨¹ıws´«ÊäµÄvmess vless trojan shadowsocks socksµÈĞ­Òé  
-* Ö§³ÖtorÍøÂç£¬ÇÒ¿ÉÍ¨¹ı×Ô¶¨ÒåÍøÂçÅäÖÃÎÄ¼şÆô¶¯v2rayºÍcaddyÀ´°´ĞèÅäÖÃ¸÷ÖÖ¹¦ÄÜ  
-* Ö§³Ö´æ´¢×Ô¶¨ÒåÎÄ¼ş,Ä¿Â¼¼°ÕËºÅÃÜÂë¾ùÎªAUUID,¿Í»§¶ËÎñ±ØÊ¹ÓÃTLSÁ¬½Ó  
+* ä½¿ç”¨v2ray+caddyåŒæ—¶éƒ¨ç½²é€šè¿‡wsä¼ è¾“çš„vmess vless trojan shadowsocks socksç­‰åè®®  
+* æ”¯æŒtorç½‘ç»œï¼Œä¸”å¯é€šè¿‡è‡ªå®šä¹‰ç½‘ç»œé…ç½®æ–‡ä»¶å¯åŠ¨v2rayå’Œcaddyæ¥æŒ‰éœ€é…ç½®å„ç§åŠŸèƒ½  
+* æ”¯æŒå­˜å‚¨è‡ªå®šä¹‰æ–‡ä»¶,ç›®å½•åŠè´¦å·å¯†ç å‡ä¸ºAUUID,å®¢æˆ·ç«¯åŠ¡å¿…ä½¿ç”¨TLSè¿æ¥  
   
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ axztk/1234)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ axztk/123)  
   
-### ·şÎñ¶Ë
-µã»÷ÉÏÃæ×ÏÉ«`Deploy to Heroku`£¬»áÌø×ªµ½heroku app´´½¨Ò³Ãæ£¬ÌîÉÏappµÄÃû×Ö¡¢Ñ¡Ôñ½Úµã¡¢°´ĞèĞŞ¸Ä²¿·Ö²ÎÊıºÍAUUIDºóµã»÷ÏÂÃædeploy´´½¨app¼´¿É¿ªÊ¼²¿Êğ  
-Èç³öÏÖ´íÎó£¬¿ÉÒÔ¶à³¢ÊÔ¼¸´Î£¬´ı²¿ÊğÍê³ÉºóÒ³Ãæµ×²¿»áÏÔÊ¾Your app was successfully deployed  
-  * µã»÷Manage App¿ÉÔÚSettingsÏÂµÄConfig VarsÏî**²é¿´ºÍÖØĞÂÉèÖÃ²ÎÊı**  
-  * µã»÷Open appÌø×ª[»¶Ó­Ò³Ãæ](/etc/CADDYIndexPage.md)ÓòÃû¼´Îªheroku·ÖÅäÓòÃû£¬¸ñÊ½Îª`appname.herokuapp.com`£¬ÓÃÓÚ¿Í»§¶Ë  
-  * Ä¬ÈÏĞ­ÒéÃÜÂëÎª$UUID£¬WSÂ·¾¶Îª$UUID-[vmess|vless|trojan|ss|socks]¸ñÊ½
+### æœåŠ¡ç«¯
+ç‚¹å‡»ä¸Šé¢ç´«è‰²`Deploy to Heroku`ï¼Œä¼šè·³è½¬åˆ°heroku appåˆ›å»ºé¡µé¢ï¼Œå¡«ä¸Šappçš„åå­—ã€é€‰æ‹©èŠ‚ç‚¹ã€æŒ‰éœ€ä¿®æ”¹éƒ¨åˆ†å‚æ•°å’ŒAUUIDåç‚¹å‡»ä¸‹é¢deployåˆ›å»ºappå³å¯å¼€å§‹éƒ¨ç½²  
+å¦‚å‡ºç°é”™è¯¯ï¼Œå¯ä»¥å¤šå°è¯•å‡ æ¬¡ï¼Œå¾…éƒ¨ç½²å®Œæˆåé¡µé¢åº•éƒ¨ä¼šæ˜¾ç¤ºYour app was successfully deployed  
+  * ç‚¹å‡»Manage Appå¯åœ¨Settingsä¸‹çš„Config Varsé¡¹**æŸ¥çœ‹å’Œé‡æ–°è®¾ç½®å‚æ•°**  
+  * ç‚¹å‡»Open appè·³è½¬[æ¬¢è¿é¡µé¢](/etc/CADDYIndexPage.md)åŸŸåå³ä¸ºherokuåˆ†é…åŸŸåï¼Œæ ¼å¼ä¸º`appname.herokuapp.com`ï¼Œç”¨äºå®¢æˆ·ç«¯  
+  * é»˜è®¤åè®®å¯†ç ä¸º$UUIDï¼ŒWSè·¯å¾„ä¸º$UUID-[vmess|vless|trojan|ss|socks]æ ¼å¼
   
-### ¿Í»§¶Ë
-* **Îñ±ØÌæ»»ËùÓĞµÄappname.herokuapp.comÎªheroku·ÖÅäµÄÏîÄ¿ÓòÃû**  
-* **Îñ±ØÌæ»»ËùÓĞµÄ8f91b6a0-e8ee-11ea-adc1-0242ac120002Îª²¿ÊğÊ±ÉèÖÃµÄAUUID**  
+### å®¢æˆ·ç«¯
+* **åŠ¡å¿…æ›¿æ¢æ‰€æœ‰çš„appname.herokuapp.comä¸ºherokuåˆ†é…çš„é¡¹ç›®åŸŸå**  
+* **åŠ¡å¿…æ›¿æ¢æ‰€æœ‰çš„8f91b6a0-e8ee-11ea-adc1-0242ac120002ä¸ºéƒ¨ç½²æ—¶è®¾ç½®çš„AUUID**  
   
 <details>
 <summary>v2ray</summary>
 
 ```bash
-* ¿Í»§¶ËÏÂÔØ£ºhttps://github.com/v2fly/v2ray-core/releases
-* ´úÀíĞ­Òé£ºvless »ò vmess
-* µØÖ·£ºappname.herokuapp.com
-* ¶Ë¿Ú£º443
-* Ä¬ÈÏUUID£º8f91b6a0-e8ee-11ea-adc1-0242ac120002
-* ¼ÓÃÜ£ºnone
-* ´«ÊäĞ­Òé£ºws
-* Î±×°ÀàĞÍ£ºnone
-* Â·¾¶£º/8f91b6a0-e8ee-11ea-adc1-0242ac120002-vless // Ä¬ÈÏvlessÊ¹ÓÃ/$uuid-vless£¬vmessÊ¹ÓÃ/$uuid-vmess
-* µ×²ã´«Êä°²È«£ºtls
+* å®¢æˆ·ç«¯ä¸‹è½½ï¼šhttps://github.com/v2fly/v2ray-core/releases
+* ä»£ç†åè®®ï¼švless æˆ– vmess
+* åœ°å€ï¼šappname.herokuapp.com
+* ç«¯å£ï¼š443
+* é»˜è®¤UUIDï¼š8f91b6a0-e8ee-11ea-adc1-0242ac120002
+* åŠ å¯†ï¼šnone
+* ä¼ è¾“åè®®ï¼šws
+* ä¼ªè£…ç±»å‹ï¼šnone
+* è·¯å¾„ï¼š/8f91b6a0-e8ee-11ea-adc1-0242ac120002-vless // é»˜è®¤vlessä½¿ç”¨/$uuid-vlessï¼Œvmessä½¿ç”¨/$uuid-vmess
+* åº•å±‚ä¼ è¾“å®‰å…¨ï¼štls
 ```
 </details>
   
@@ -38,7 +38,7 @@
 <summary>trojan-go</summary>
 
 ```bash
-* ¿Í»§¶ËÏÂÔØ: https://github.com/p4gefau1t/trojan-go/releases
+* å®¢æˆ·ç«¯ä¸‹è½½: https://github.com/p4gefau1t/trojan-go/releases
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -61,13 +61,13 @@
 <summary>shadowsocks</summary>
 
 ```bash
-* ¿Í»§¶ËÏÂÔØ£ºhttps://github.com/shadowsocks/shadowsocks-windows/releases/
-* ·şÎñÆ÷µØÖ·: appname.herokuapp.com
-* ¶Ë¿Ú: 443
-* ÃÜÂë£ºpassword
-* ¼ÓÃÜ£ºchacha20-ietf-poly1305
-* ²å¼ş³ÌĞò£ºv2ray-plugin_windows_amd64.exe  //Ğè½«²å¼şhttps://github.com/shadowsocks/v2ray-plugin/releasesÏÂÔØ½âÑ¹ºó·ÅÖÁshadowsocksÍ¬Ä¿Â¼
-* ²å¼şÑ¡Ïî: tls;host=appname.herokuapp.com;path=/8f91b6a0-e8ee-11ea-adc1-0242ac120002-ss
+* å®¢æˆ·ç«¯ä¸‹è½½ï¼šhttps://github.com/shadowsocks/shadowsocks-windows/releases/
+* æœåŠ¡å™¨åœ°å€: appname.herokuapp.com
+* ç«¯å£: 443
+* å¯†ç ï¼špassword
+* åŠ å¯†ï¼šchacha20-ietf-poly1305
+* æ’ä»¶ç¨‹åºï¼šv2ray-plugin_windows_amd64.exe  //éœ€å°†æ’ä»¶https://github.com/shadowsocks/v2ray-plugin/releasesä¸‹è½½è§£å‹åæ”¾è‡³shadowsocksåŒç›®å½•
+* æ’ä»¶é€‰é¡¹: tls;host=appname.herokuapp.com;path=/8f91b6a0-e8ee-11ea-adc1-0242ac120002-ss
 ```
 </details>
   
@@ -98,4 +98,4 @@ addEventListener(
 ```
 </details>
   
-> [¸ü¶àÀ´×ÔÈÈĞÄÍøÓÑPRµÄÊ¹ÓÃ½Ì³Ì](/tutorial)
+> [æ›´å¤šæ¥è‡ªçƒ­å¿ƒç½‘å‹PRçš„ä½¿ç”¨æ•™ç¨‹](/tutorial)
